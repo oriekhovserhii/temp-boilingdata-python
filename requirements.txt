@@ -1,0 +1,4 @@
+boto3==1.26.118
+botocore==1.29.118
+warrant==0.6.1
+websockets==11.0.2
